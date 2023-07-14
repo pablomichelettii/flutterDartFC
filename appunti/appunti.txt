@@ -1,0 +1,3 @@
+Flutter is a framework for Dart
+
+Flutter can support multiple platform, like mobile (course focus), web and desktop app
